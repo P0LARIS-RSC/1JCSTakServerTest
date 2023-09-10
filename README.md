@@ -71,6 +71,7 @@ Simple nginx server to allow static HTML files to be served (such as registratio
 
 - https://github.com/Cloud-RF/tak-server
 - https://github.com/atakhq/tak-server-install-scripts
+- https://github.com/cgmckeever/tak-tools
 
 # Start
 
@@ -104,7 +105,7 @@ Simple nginx server to allow static HTML files to be served (such as registratio
 ```
 sudo apt -y update; \
 sudo apt -y install curl git; \
-sudo git clone https://github.com/cgmckeever/tak-tools.git /opt/tak-tools
+sudo git clone https://github.com/P0LARIS-RSC/1JCSTakServerTest.git /opt/tak-tools
 ```
 
 # Documentation and Data Package Server [optional]
